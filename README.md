@@ -1,16 +1,23 @@
-### Hi there 👋
+### Hi there 👋, i'm Adil
+#### SHARE STORM 🌩 
+![SHARE STORM 🌩 ](https://user-images.githubusercontent.com/98839796/214799096-5821f490-4dac-4e1b-9051-f980fe6cbc94.png)
 
-<!--
-**adbme/adbme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Your management tool for organizing your daily and professional life. 
 
-Here are some ideas to get you started:
+With an efficient calendar, a note system organized in categories with your choice of links, and a blog to inspire you. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+You will be able to easily manage all your tasks and projects.
+
+
+Skills: Html, Css, Typescript
+
+- 🔭 I’m currently working on Average calculator, static site in team, TypeScript lotto program (for a presentation) 
+- 🌱 I’m currently learning poo : java, php, js/ts 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/adbme)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/mail-dot-ru.svg' alt='mail-dot-ru' height='40'>](mailto:adil.bouamrioune@jobtrek.ch)  
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=adbme)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adbme)](https://github.com/anuraghazra/github-readme-stats)
+
