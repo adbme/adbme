@@ -18,7 +18,6 @@ Skills: Html, Css, Typescript
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/adbme)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/mail-dot-ru.svg' alt='mail-dot-ru' height='40'>](mailto:adil.bouamrioune@jobtrek.ch)  
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=adbme)](https://github.com/ryo-ma/github-profile-trophy)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adbme)](https://github.com/anuraghazra/github-readme-stats)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=adbme)](https://github.com/ryo-ma/github-profile-trophy)
