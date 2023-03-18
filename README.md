@@ -1,4 +1,4 @@
-### Hi 👋, i'm Adil
+### Adil 🧨
 #### you can take a look at my current personal project 
 ### SHARE STORM 🌩 
 ![https://github.com/adbme/22_static_site_team2](https://user-images.githubusercontent.com/98839796/214799096-5821f490-4dac-4e1b-9051-f980fe6cbc94.png)
