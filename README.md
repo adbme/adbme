@@ -10,7 +10,7 @@ With an efficient calendar, a note system organized in categories with your choi
 You will be able to easily manage all your tasks and projects.
 
 
-Skills: Html, Css, Typescript
+Skills:  ```php, js / oop, python, dart(flutter), bootsrap 5, three js, mysql, implementation and creation of figma model in html & css, all under linux. ```
 
 - 🔭 I’m currently working on Average calculator, static site in team, TypeScript lotto program (for a presentation) 
 - 🌱 I’m currently learning poo : java, php, js/ts 
