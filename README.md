@@ -1,7 +1,9 @@
 ### Adil 🧨
 #### you can take a look at my current personal project 
 ### SHARE STORM 🌩 
-![Group 91](https://user-images.githubusercontent.com/98839796/232794935-0d6b5fec-f8a2-476e-a36d-fb0317ee1569.svg)
+
+![Group 91](https://user-images.githubusercontent.com/98839796/232795548-acce720a-2993-49b6-ad4b-8161fa667025.png)
+
 
 
 Your management tool for organizing your daily and professional life. 
